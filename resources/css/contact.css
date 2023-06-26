@@ -1,0 +1,24 @@
+html{
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    background-color:white ;
+}
+body{
+    text-align: center;
+    color:rgb(28, 28, 79);
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+p{
+ font-size: 1.5rem;
+}
+
+.contact-content{
+    margin-top: 100px;
+}
+
+.icons{
+    font-size: 3rem;
+}
